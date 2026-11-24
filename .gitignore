@@ -1,0 +1,23 @@
+# 编译产物
+fileseeker
+fileseeker_*
+fs_*
+dist/
+*.o
+*.d
+
+# 本地索引数据（含完整路径，绝不入库）
+*.db
+*.db-wal
+*.db-shm
+Library/
+
+# macOS
+.DS_Store
+*.ips
+*.crash
+
+# Xcode
+*.xcworkspace/
+*.xcodeproj/
+build/
