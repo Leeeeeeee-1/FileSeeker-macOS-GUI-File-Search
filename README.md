@@ -51,8 +51,8 @@
 需要 macOS 13+ 与 Swift 6（Xcode Command Line Tools 即可，无需完整 Xcode）：
 
 ```bash
-git clone https://github.com/Leeeeeeee-1/FileSeeker-macOS-File-Search.git
-cd FileSeeker-macOS-File-Search
+git clone https://github.com/Leeeeeeee-1/FileSeeker-macOS-GUI-File-Search.git
+cd FileSeeker-macOS-GUI-File-Search
 chmod +x build.sh
 ./build.sh
 ```
